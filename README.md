@@ -19,8 +19,9 @@ SurgiLook.ai leverages existing models from Hugging Face, a renowned AI research
 ![WhatsApp Image 2023-10-29 at 17 50 41 (1)](https://github.com/sanas0101/HTM-4.0/assets/91895662/9db620f5-b41b-491c-b5d2-6d6ec16bd58f)
 
 <h4>And here you can the difference:</h4>
+![WhatsApp Image 2023-10-29 at 20 06 34](https://github.com/abhi3940/surgilook.ai/assets/75218064/40649d27-d7d9-42f3-affa-be9600fe1d0e)
 
-<div width="60px" height="100px">![WhatsApp Image 2023-10-29 at 20 06 34 (1)](https://github.com/sanas0101/HTM-4.0/assets/91895662/a86eaee5-f0e4-4299-ac19-c3a19de53bbc)</div>
+
  
 
 
