@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+diffusers
+accelerate
+streamlit-image-select
