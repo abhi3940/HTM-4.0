@@ -1,6 +1,6 @@
 # SurgiLook.ai
 
-SurgiLook.ai is a generative model designed to create realistic before and after images of cosmetic surgery. This tool serves as a visualization aid for doctors and patients to anticipate the potential outcomes of a surgical procedure before it takes place.
+SurgiLook.ai is webapp that uses a generative model designed to create realistic before and after images of cosmetic surgery. This tool serves as a visualization aid for doctors and patients to anticipate the potential outcomes of a surgical procedure before it takes place.
 
 ## Overview
 
